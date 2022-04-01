@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TREN_İSTASYON", "TREN_İSTASYON\TREN_İSTASYON.csproj", "{AD0F3277-D380-4767-B044-0A42DE68CAA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0F3277-D380-4767-B044-0A42DE68CAA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0F3277-D380-4767-B044-0A42DE68CAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0F3277-D380-4767-B044-0A42DE68CAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0F3277-D380-4767-B044-0A42DE68CAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C149913F-C5AC-48BB-8E90-D38B3EE5ABF5}
+	EndGlobalSection
+EndGlobal
